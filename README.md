@@ -1,2 +1,2 @@
 # malpic
-malware screenshots
+collection of malware screenshots
